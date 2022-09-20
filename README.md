@@ -12,7 +12,7 @@
 - Adjusted close
 - High
 - Low
-- Adjusted close day difference (
+- Adjusted close day difference
 #### Creating a model
 - X Input data: STI, Hang Seng Index, SSE Composite Index, Nikkei
 - Y data: S&P 500 (opening price 1day time frame) (open and close)
